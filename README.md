@@ -5,7 +5,7 @@
 
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/saurabh-shubham/"><img height="30" src="https://raw.githubusercontent.com/saurabh3333/saurabh3333/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <br><a href="https://www.linkedin.com/in/saurabh-shubham/"><img height="30" src="https://raw.githubusercontent.com/saurabh3333/saurabh3333/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/8bithemant"><img height="30" src="https://raw.githubusercontent.com/saurabh3333/saurabh3333/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://dev.to/hemant"><img height="30" src="https://raw.githubusercontent.com/saurabh3333/saurabh3333/master/devto.png?raw=true"></a>&nbsp;&nbsp;
 <br><br><img src="https://komarev.com/ghpvc/?username=saurabh3333&color=green" alt="saurabh3333" /> 
