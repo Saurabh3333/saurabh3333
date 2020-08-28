@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=saurabh3333" alt="saurabh3333" /> 
+<img src="https://komarev.com/ghpvc/?username=saurabh3333&color=green" alt="saurabh3333" /> 
 
 <!--
 **Saurabh3333/saurabh3333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
