@@ -1,7 +1,15 @@
-### Hi there 👋
+<div align="center">
+   <h1>Hi there, I'm <a href=http://saurabh3333.github.io/">Saurabh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=saurabh3333&color=green" alt="saurabh3333" /> 
 
+<p align='center'>
+   <a href="https://www.linkedin.com/in/saurabh-shubham/"><img height="30" src="https://raw.githubusercontent.com/saurabh3333/saurabh3333/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/8bithemant"><img height="30" src="https://raw.githubusercontent.com/saurabh3333/saurabh3333/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dev.to/hemant"><img height="30" src="https://raw.githubusercontent.com/saurabh3333/saurabh3333/master/devto.png?raw=true"></a>&nbsp;&nbsp;
+<br><br><img src="https://komarev.com/ghpvc/?username=saurabh3333&color=green" alt="saurabh3333" /> 
+ </p>
 
 <!-- My GitHub stats with buefy theme ❤️ -->
 <p align="left">
