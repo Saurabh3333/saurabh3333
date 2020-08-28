@@ -2,6 +2,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=saurabh3333&color=green" alt="saurabh3333" /> 
 
+
+<!-- My GitHub stats with buefy theme ❤️ -->
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=saurabh3333&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh3333&layout=compact&theme=buefy" alt="languages" height="165">
+</p>
+
 <!--
 **Saurabh3333/saurabh3333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
