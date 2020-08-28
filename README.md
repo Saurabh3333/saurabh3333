@@ -5,7 +5,7 @@
 
 <!-- My GitHub stats with buefy theme ❤️ -->
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=saurabh3333&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh3333&layout=compact&theme=buefy" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=saurabh3333&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" alt="my github stats" width="420"/>
 </p>
 
 <!--
